@@ -1,5 +1,5 @@
 # Preferred name (Characters only)
-name: "Mark Guz"
+name: Mark Guz
 # Your GitHub repo root URL
 github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-markg-94
 
@@ -13,95 +13,104 @@ summary: I am a Business Systems Analyst Consultant for Jarvis Consulting Group 
 
 skills:
   # Please include 
-  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
+  #     1)soft skills (e.g. elicitation, communication, collaboration, interpersonal, etc )
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
-    - Donec
-    - Donec
-    - Donec
-    - fermentum
-    - Donec
+    - Analytical Skills
+    - Problem-solving and Numerical Reasoning
+    - Communication and Teamwork
+    - Microsoft Office (Excel, PowerPoint, Word)
+    - Google Docs, Sheets, Slides
+
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
     - RDBMS/SQL
     - Data Modeling/Mapping
     - Data Analytics
+    - Tableau
+    - Python
+    - R
+    - Mathematics and Statistics
+    - Machine Learning
+    - Git/GitHub
+    - ETL
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
-  - name: "Linux Cluster Resource Monitoring App"
+  - name: Linux Cluster Resource Monitoring App
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
-    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Python Data Analytics"
+    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, requirement, analysis, RDBMS, SQL, data modeling, SLA
+    description: TBA
+  - name: Python Data Analytics
     git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-    description: ""
-  - name: "Hadoop"
+    description: TBA
+  - name: Hadoop
     git_url: "/hadoop"
-    description: ""
+    description: TBA
 
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
 highlighted_projects:
     #project name
-  - name: "Web app for resturant"
+  - name: McMaster University Data Management Case Analysis
     #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
     git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Cleaned and analyzed financial transaction data using Microsoft Excel. Elicited business requirements to create a report and presented analytical findings. Made recommendations for future fraud detection. Worked as part of a team to find effective business solutions.
+  - name: City of Hamilton Capstone Project
+    git_url:
+    description: Collaborated as part of a team of three to gather import and export data of various commodities from Statistics Canada and other available resources. Created a dashboard of data visualizations in Tableau showing imports and exports by commodity and time series charts. Presented finished product to a non-technical audience in an effective and easy-to-understand manner.
+  - name: McMaster University Data Mining and Predictive Analytics Project
+    #URL is optional
+    git_url:
+    description: Used Exploratory Data Analysis on Cleaned a large set of financial data using Python and Excel. Compared the effectiveness of various Machine Learning algorithms for predicting company bankruptcy. Prepared a report and a presentation discussing findings, receiving an excellent performance evaluation on both.
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
-  - title: "Software Developer"
-    company: "Jarvis"
-    duration: "2020-present"
+  - title: Business Systems Analyst
+    company: Jarvis
+    duration: March 2023 - present
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. [TBC]
+  - title: Junior Data Analyst
+    company: NPower
+    duration: September - December 2022
+    description: Led and participated in scrum meetings as part of NPower's training program. Completed various mini-projects using tools such as Python, SQL, Microsoft Excel, and IBM Cognos Analytics, as well as a cumulative project at the end of the program.
 
 #List of edcuation
 education: 
-  - school_name: "XYZ university"
-    duration: "2012-2016"
-    degree: "Bachelor of Applied Sciences"
-    department: "Electrical and Computer Engineering"
+  - school_name: McMaster University
+    duration: January 2021 - December 2021
+    degree: Data Science Certificate
+    department: Data Science, Analytics, & Architecture
     # optional
     awards_achievements: 
-      - "Scholarship"
-      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
-      - "GPA: 3.8/4.0"
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
-    awards_achievements: 
+      - "GPA: 3.98/4.0"
+  - school_name: University of Waterloo
+    duration: September 2013 - August 2018
+    degree: Bachelor of Mathematics
+    department: Statistics and Actuarial Science
+    awards_achievements:
+      - "GPA: 3.14/4.0"
 
 #Optional section
 others:
     #category
-  - title: "Certificates"
+  - title: Certificates
     #list of items
     bullets:
-      - "Udacity Machine Learning (2019)"
-  - title: "Awards"
+      - 'Microsoft AZ-900 Certification'
+  - title: Activities/Hobbies
     bullets:
-      - "Winner"
-  - title: "Activities/Hobbies"
-    bullets:
-      - "Basketball player; joined xyz club"
-      - "Competitive gaming; compete for xyz"
-      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+      - 'Board games (chess, Scrabble)'
+      - 'Gaming (Nintendo, PC)'
+      - 'YouTube/Netflix (true crime, comedy)'
+      - 'Physical exercising (walking/jogging, team sports)'
