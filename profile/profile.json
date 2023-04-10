@@ -1,0 +1,111 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.98/4.0"
+      ],
+      "degree": "Data Science Certificate",
+      "department": "Data Science, Analytics, \u0026 Architecture",
+      "duration": "January 2021 - December 2021",
+      "school_name": "McMaster University"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 3.14/4.0"
+      ],
+      "degree": "Bachelor of Mathematics",
+      "department": "Statistics and Actuarial Science",
+      "duration": "September 2013 - August 2018",
+      "school_name": "University of Waterloo"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-markg-94",
+  "highlighted_projects": [
+    {
+      "description": "Cleaned and analyzed financial transaction data using Microsoft Excel. Elicited business requirements to create a report and presented analytical findings. Made recommendations for future fraud detection. Worked as part of a team to find effective business solutions.",
+      "git_url": null,
+      "name": "McMaster University Data Management Case Analysis"
+    },
+    {
+      "description": "Collaborated as part of a team of three to gather import and export data of various commodities from Statistics Canada and other available resources. Created a dashboard of data visualizations in Tableau showing imports and exports by commodity and time series charts. Presented finished product to a non-technical audience in an effective and easy-to-understand manner.",
+      "git_url": null,
+      "name": "City of Hamilton Capstone Project"
+    },
+    {
+      "description": "Used Exploratory Data Analysis on Cleaned a large set of financial data using Python and Excel. Compared the effectiveness of various Machine Learning algorithms for predicting company bankruptcy. Prepared a report and a presentation discussing findings, receiving an excellent performance evaluation on both.",
+      "git_url": null,
+      "name": "McMaster University Data Mining and Predictive Analytics Project"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "TBA",
+      "git_url": "/linux_sql",
+      "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "TBA",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "TBA",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    }
+  ],
+  "name": "Mark Guz",
+  "others": [
+    {
+      "bullets": [
+        "Microsoft AZ-900 Certification"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Board games (chess, Scrabble)",
+        "Gaming (Nintendo, PC)",
+        "YouTube/Netflix (true crime, comedy)",
+        "Physical exercising (walking/jogging, team sports)"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. [TBC]",
+      "duration": "March 2023 - present",
+      "title": "Business Systems Analyst"
+    },
+    {
+      "company": "NPower",
+      "description": "Led and participated in scrum meetings as part of NPower's training program. Completed various mini-projects using tools such as Python, SQL, Microsoft Excel, and IBM Cognos Analytics, as well as a cumulative project at the end of the program.",
+      "duration": "September - December 2022",
+      "title": "Junior Data Analyst"
+    }
+  ],
+  "skills": {
+    "Business Skills": [
+      "Analytical Skills",
+      "Problem-solving and Numerical Reasoning",
+      "Communication and Teamwork",
+      "Microsoft Office (Excel, PowerPoint, Word)",
+      "Google Docs, Sheets, Slides"
+    ],
+    "Technical Skills": [
+      "RDBMS/SQL",
+      "Data Modeling/Mapping",
+      "Data Analytics",
+      "Tableau",
+      "Python",
+      "R",
+      "Mathematics and Statistics",
+      "Machine Learning",
+      "Git/GitHub",
+      "ETL"
+    ]
+  },
+  "summary": "I am a Business Systems Analyst Consultant for Jarvis Consulting Group and I love numbers. I majored in Statistics and Actuarial Science and minored in Computer Science at the University of Waterloo. I am interested in a BSA or business and data-oriented role within the financial and insurance sectors as my long-term goal is to work in the actuarial field. I believe that my vast technical knowledge of data analysis tools such as Microsoft Excel, Python, and Tableau combined with my financial background and ability to communicate complex technical concepts to non-technical audiences effectively make me the perfect candidate for the role."
+}

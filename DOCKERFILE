@@ -1,0 +1,4 @@
+M ubuntu:18.04 . #base image (anaology: download a image from the Internet)
+COPY myProgram.jar /app #copy jar file to image
+CMD java /app/myProgram.jar #run the java program when container starts
+
