@@ -16,7 +16,7 @@ memory_free=$(vmstat --unit M | tail -1 | awk -v col="4" '{print $col}')
 cpu_idle=$(vmstat --unit M | tail -1 | awk -v col="15" '{print $col}')
 cpu_kernel=$(vmstat --unit M | tail -1 | awk -v col="14" '{print $col}')
 disk_io=$(vmstat --unit M -d | tail -1 | awk -v col="10" '{print $col}')
-disk_available=$(df -BM / | tail -1 | awkw =v col="4" '{print $col}')
+disk_available=$(df -BM / | tail -1 | awk -v col="4" '{print $col}')
 timestamp=$(date vmstat -t --unit M | tail -1 | awk '{print $18}')
 
 host_id="(select id from host_info where hostname='$hostname')"
