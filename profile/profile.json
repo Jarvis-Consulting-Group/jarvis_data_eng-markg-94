@@ -39,7 +39,7 @@
   ],
   "jarvis_projects": [
     {
-      "description": "TBA",
+      "description": "Used DDL to define tables for storing Linux host info and usage data in RDBMS and constructed SQL queries to extract data from the Linux host and insert it into the tables. Wrote complex SQL queries to extract relevant information from a database. Elicited requirements from business stakeholders through interviews and gathered information to construct a business requirements document for the Linux Cluster Resource Monitoring App and a software requirements document for an upcoming Stock Trader App. Presented data models in BRD.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
     },
@@ -91,7 +91,7 @@
       "Analytical Skills",
       "Problem-solving and Numerical Reasoning",
       "Communication and Teamwork",
-      "Microsoft Office (Excel, PowerPoint, Word)",
+      "Microsoft Office (Excel, PowerPoint, Word, Visio, Access)",
       "Google Docs, Sheets, Slides"
     ],
     "Technical Skills": [
