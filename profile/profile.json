@@ -39,19 +39,14 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Used DDL to define tables for storing Linux host info and usage data in RDBMS and constructed SQL queries to extract data from the Linux host and insert it into the tables. Wrote complex SQL queries to extract relevant information from a database. Elicited requirements from business stakeholders through interviews and gathered information to construct a business requirements document for the Linux Cluster Resource Monitoring App and a software requirements document for an upcoming Stock Trader App. Presented data models in BRD.",
+      "description": "Used DDL to define tables for storing Linux host info and usage data in RDBMS and constructed SQL queries to extract data from the Linux host and insert it into the tables. Set up and utilized a docker and container instances.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
     },
     {
-      "description": "TBA",
-      "git_url": "/python_data_anlytics",
-      "name": "Python Data Analytics"
-    },
-    {
-      "description": "TBA",
-      "git_url": "/hadoop",
-      "name": "Hadoop"
+      "description": "Wrote complex SQL queries to extract relevant information from a database. Elicited requirements from business stakeholders through interviews and gathered information to construct a business requirements document for the Linux Cluster Resource Monitoring App and a software requirements document for an upcoming Stock Trader App. Presented data models in BRD.",
+      "git_url": "/bsa",
+      "name": "BSA Project"
     }
   ],
   "name": "Mark Guz",
@@ -75,7 +70,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. [TBC]",
+      "description": "Completed projects in an agile work environment while maintaining effective communication with a scrum group. Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. Prepared a Business Requirement Document (BRD) and Software Requirements Document (SRD) independently and with minimal guidance.",
       "duration": "March 2023 - present",
       "title": "Business Systems Analyst"
     },
@@ -99,6 +94,7 @@
       "Data Modeling/Mapping",
       "Data Analytics",
       "Tableau",
+      "Microsoft Power BI",
       "Python",
       "R",
       "Mathematics and Statistics",
