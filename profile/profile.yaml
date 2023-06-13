@@ -9,7 +9,7 @@ github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I am a Business Systems Analyst Consultant for Jarvis Consulting Group and I love numbers. I majored in Statistics and Actuarial Science and minored in Computer Science at the University of Waterloo. I am interested in a BSA or business and data-oriented role within the financial and insurance sectors as my long-term goal is to work in the actuarial field. I believe that my vast technical knowledge of data analysis tools such as Microsoft Excel, Python, and Tableau combined with my financial background and ability to communicate complex technical concepts to non-technical audiences effectively make me the perfect candidate for the role.
+summary: I am a Data Engineering Consultant for Jarvis Consulting Group and I love numbers. I majored in Statistics and Actuarial Science and minored in Computer Science at the University of Waterloo. I am interested in a data-oriented role within the financial and insurance sectors as my long-term goal is to work in the actuarial field. I believe that my vast technical knowledge of data analysis tools such as Microsoft Excel, Python, and Tableau combined with my financial background and ability to communicate complex technical concepts to non-technical audiences effectively make me the perfect candidate for the role.
 
 skills:
   # Please include 
@@ -26,11 +26,11 @@ skills:
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
     - RDBMS/SQL
-    - Data Modeling/Mapping
     - Data Analytics
     - Tableau
     - Microsoft Power BI
     - Python
+    - Data Modelling/Mapping
     - R
     - Mathematics and Statistics
     - Machine Learning
@@ -48,11 +48,11 @@ jarvis_projects:
   - name: BSA Project
     git_url: "/bsa"
     description: Wrote complex SQL queries to extract relevant information from a database. Elicited requirements from business stakeholders through interviews and gathered information to construct a business requirements document for the Linux Cluster Resource Monitoring App and a software requirements document for an upcoming Stock Trader App. Presented data models in BRD.
-#  - name: Python Data Analytics
-#    git_url: "/python_data_anlytics"
-#    # Focus on BSA work instead of development work
-#    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-#    description: TBA
+  - name: Python Data Analytics
+    git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: Cleaned and manipulated data in Pandas dataframes to extract basic statistical information such as mean, median, minimum, and maximum values of a data set. Generated data visualization plots showing the distribution of data, including outliers. Analyzed transactions with SQL queries and Pandas dataframe functions.
 #  - name: Hadoop
 #    git_url: "/hadoop"
 #    description: TBA
@@ -72,7 +72,7 @@ highlighted_projects:
   - name: McMaster University Data Mining and Predictive Analytics Project
     #URL is optional
     git_url:
-    description: Used Exploratory Data Analysis on Cleaned a large set of financial data using Python and Excel. Compared the effectiveness of various Machine Learning algorithms for predicting company bankruptcy. Prepared a report and a presentation discussing findings, receiving an excellent performance evaluation on both.
+    description: Cleaned a large set of financial data using Python and Excel and performed Exploratory Data Analysis on the dataset. Compared the effectiveness of various Machine Learning algorithms for predicting company bankruptcy. Prepared a report and a presentation discussing findings, receiving an excellent performance evaluation on both.
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -83,7 +83,7 @@ professional_experience:
     duration: March 2023 - present
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: Completed projects in an agile work environment while maintaining effective communication with a scrum group. Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. Prepared a Business Requirement Document (BRD) and Software Requirements Document (SRD) independently and with minimal guidance.
+    description: Completed projects in an agile work environment while maintaining effective communication with a scrum group. Created and set up a Linux virtual machine instance through the Google Cloud Platform. Wrote complex SQL queries to analyze numerical and categorical data. Prepared a Business Requirement Document (BRD) and Software Requirements Document (SRD) independently and with minimal guidance. Cleaned and manipulated datasets for usability in Python and used Pandas dataframes to analyze and visualize transaction data in the dataset and derive meaningful information from the raw data.
   - title: Junior Data Analyst
     company: NPower
     duration: September - December 2022
